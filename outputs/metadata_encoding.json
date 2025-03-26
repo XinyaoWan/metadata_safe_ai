@@ -1,0 +1,46 @@
+{
+    "country_code": {
+        "0": "PL",
+        "1": "DE",
+        "2": "IT",
+        "3": "HU",
+        "4": "SE",
+        "5": "FR",
+        "6": "NO",
+        "7": "GB",
+        "8": "IE",
+        "9": "NL",
+        "10": "CZ",
+        "11": "FI",
+        "12": "SK",
+        "13": "LU"
+    },
+    "weather": {
+        "0": "clear-day",
+        "1": "clear-night",
+        "2": "partly-cloudy-day",
+        "3": "partly-cloudy-night",
+        "4": "cloudy",
+        "5": "wind",
+        "6": "rain",
+        "7": "snow",
+        "8": "fog"
+    },
+    "time_of_day": {
+        "0": "day",
+        "1": "twilight",
+        "2": "night"
+    },
+    "road_type": {
+        "0": "city",
+        "1": "arterial-urban",
+        "2": "highway",
+        "3": "arterial-rural",
+        "4": "smaller-rural"
+    },
+    "road_condition": {
+        "0": "normal",
+        "1": "wet",
+        "2": "snow"
+    }
+}
