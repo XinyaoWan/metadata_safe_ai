@@ -1,0 +1,56 @@
+{
+  "best_params": {
+    "alpha": 0.1,
+    "gamma": 0.01,
+    "kernel": "polynomial"
+  },
+  "train": {
+    "mae": 0.17227477080481665,
+    "mse": 0.04792669220153798,
+    "r2": 0.21991993965633094
+  },
+  "test": {
+    "mae": 0.1880388621816936,
+    "mse": 0.05979943297906459,
+    "r2": 0.02521388588422424
+  },
+  "feature": [
+    "country_code",
+    "weather",
+    "road_type",
+    "road_condition",
+    "time_of_day",
+    "num_vehicles",
+    "longitude",
+    "latitude",
+    "solar_angle_elevation",
+    "focal_length_x",
+    "focal_length_y",
+    "principle_point_x",
+    "principle_point_y",
+    "camera_pose_x",
+    "camera_pose_y",
+    "camera_pose_z",
+    "camera_pose_yaw",
+    "camera_pose_pitch",
+    "camera_pose_roll",
+    "horizontal_fov",
+    "vertical_fov",
+    "ego_pose_x",
+    "ego_pose_y",
+    "ego_pose_z",
+    "ego_pose_yaw",
+    "ego_pose_pitch",
+    "ego_pose_roll",
+    "speed_var",
+    "mean_jerk",
+    "max_jerk",
+    "st_jerk",
+    "mean_angular_acc",
+    "max_angular_acc",
+    "st_angular_acc",
+    "mean_lateral_acc",
+    "max_lateral_acc",
+    "st_lateral_acc"
+  ]
+}
